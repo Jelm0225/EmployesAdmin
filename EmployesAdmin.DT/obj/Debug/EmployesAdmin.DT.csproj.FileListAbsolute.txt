@@ -1,0 +1,16 @@
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\obj\Debug\EmployesAdmin.DT.csprojAssemblyReference.cache
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\obj\Debug\EmployesAdmin.DT.DataResources.resources
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\obj\Debug\EmployesAdmin.DT.csproj.GenerateResource.cache
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\obj\Debug\EmployesAdmin.DT.csproj.CoreCompileInputs.cache
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\EmployesAdmin.DT.dll
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\EmployesAdmin.DT.pdb
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\EmployesAdmin.Dto.dll
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\Newtonsoft.Json.dll
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\Spring.Rest.dll
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\EmployesAdmin.Dto.pdb
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\Newtonsoft.Json.xml
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\Spring.Rest.pdb
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\bin\Debug\Spring.Rest.xml
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\obj\Debug\EmployesAdmin.DT.csproj.CopyComplete
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\obj\Debug\EmployesAdmin.DT.dll
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.DT\obj\Debug\EmployesAdmin.DT.pdb

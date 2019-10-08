@@ -1,0 +1,17 @@
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.deps.json
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.dll
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.pdb
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.csproj.CoreCompileInputs.cache
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.AssemblyInfoInputs.cache
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.AssemblyInfo.cs
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.dll
+C:\Users\JohnEstebanLondoño\source\repos\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.pdb
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.deps.json
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.dll
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.pdb
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.csproj.CoreCompileInputs.cache
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.AssemblyInfoInputs.cache
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.AssemblyInfo.cs
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.dll
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.pdb
+E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.csprojAssemblyReference.cache
