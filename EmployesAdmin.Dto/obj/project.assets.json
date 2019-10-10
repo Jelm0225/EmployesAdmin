@@ -179,25 +179,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JohnEstebanLondoño\\.nuget\\packages\\": {},
+    "C:\\Users\\tecsi\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AutoStudio\\PMasGlobal\\EmployesAdmin\\EmployesAdmin.Dto\\EmployesAdmin.Dto.csproj",
+      "projectUniqueName": "D:\\GITPruebas\\EmployesAdmin.Dto\\EmployesAdmin.Dto.csproj",
       "projectName": "EmployesAdmin.Dto",
-      "projectPath": "E:\\AutoStudio\\PMasGlobal\\EmployesAdmin\\EmployesAdmin.Dto\\EmployesAdmin.Dto.csproj",
-      "packagesPath": "C:\\Users\\JohnEstebanLondoño\\.nuget\\packages\\",
-      "outputPath": "E:\\AutoStudio\\PMasGlobal\\EmployesAdmin\\EmployesAdmin.Dto\\obj\\",
+      "projectPath": "D:\\GITPruebas\\EmployesAdmin.Dto\\EmployesAdmin.Dto.csproj",
+      "packagesPath": "C:\\Users\\tecsi\\.nuget\\packages\\",
+      "outputPath": "D:\\GITPruebas\\EmployesAdmin.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JohnEstebanLondoño\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tecsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

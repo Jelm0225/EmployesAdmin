@@ -15,3 +15,12 @@ E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.
 E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.dll
 E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.pdb
 E:\AutoStudio\PMasGlobal\EmployesAdmin\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.csprojAssemblyReference.cache
+D:\GITPruebas\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.deps.json
+D:\GITPruebas\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.dll
+D:\GITPruebas\EmployesAdmin.Dto\bin\Debug\netstandard2.0\EmployesAdmin.Dto.pdb
+D:\GITPruebas\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.csprojAssemblyReference.cache
+D:\GITPruebas\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.csproj.CoreCompileInputs.cache
+D:\GITPruebas\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.AssemblyInfoInputs.cache
+D:\GITPruebas\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.AssemblyInfo.cs
+D:\GITPruebas\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.dll
+D:\GITPruebas\EmployesAdmin.Dto\obj\Debug\netstandard2.0\EmployesAdmin.Dto.pdb

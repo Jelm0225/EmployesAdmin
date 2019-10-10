@@ -28,7 +28,7 @@ namespace EmployesAdmin.Business
 
             IEnumerable<Employe> employes = EmployesServiceClient.GetAllEmployes();
             IEnumerable<EmployesAnualSalary> employesResult = (from e in employes
-                                                               where e.name.Contains(employeName)
+                                                               where e.name.ToLower().Contains(employeName.ToLower())
                                                                select new EmployesAnualSalary(e.id, e.name, e.contractTypeName,
                                                                MapAnualSalaryTotal(e.contractTypeName, (e.contractTypeName == HourySalaryContract ? e.hourlySalary : e.monthlySalary))));
 
