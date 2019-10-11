@@ -8,15 +8,24 @@
             var employeService = {};
 
             employeService.getEmployes = function (id, cb) {
-                var svcURIlang = 'https://localhost:44325/api/Values/Get';
 
+                var svcURIlang = '';
 
-                $http.post(svcURIlang, {
-                    "Id": (id == null || id == undefined ? 0 : id)
-                }).then(function (data) {
-                    // With the data succesfully returned, call our callback
-                    cb(data.data);
+                if (id == undefined || id == null || id == '') {
+                     svcURIlang = 'https://localhost:44325/api/Values/Get';
+                } else {
+                    svcURIlang = 'https://localhost:44325/api/Values/Get?employeName=' + id;
+                }
+
+                console.log($http);
+
+                $http({
+                    method: 'GET',
+                    url: svcURIlang
+                }).then(function success(response) {
+                    cb(response.data);
                 });
+
             };
 
             return employeService;

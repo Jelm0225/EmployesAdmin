@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Web.Http;
 
 namespace EmployesAdmin.API
@@ -9,7 +10,13 @@ namespace EmployesAdmin.API
     {
         public static void Register(HttpConfiguration config)
         {
-            // Web API configuration and services
+            // Configuración y servicios de API web
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
+
+            //Configuracion UTF-8 es requerida para que se pueda leer el json con todos los caracteres.
+            Encoding oldDefault = Encoding.GetEncoding("utf-8");
+            GlobalConfiguration.Configuration.Formatters.JsonFormatter.SupportedEncodings.Clear();
+            GlobalConfiguration.Configuration.Formatters.JsonFormatter.SupportedEncodings.Add(oldDefault);
 
             // Web API routes
             config.MapHttpAttributeRoutes();

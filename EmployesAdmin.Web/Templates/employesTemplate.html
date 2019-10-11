@@ -1,8 +1,24 @@
-﻿<html>
-<head>
-    
-</head>
-<body>
+﻿<div>
 
-</body>
-</html>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Contract Type</th>
+                <th>Anual Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="employe in EmployeList">
+                <td><strong>{{employe.Id}}</strong></td>
+                <td>{{employe.name}}</td>
+                <td>{{employe.contractTypeName}}</td>
+                <td>{{employe.anualSalay | currency: $}}</td>
+
+
+            </tr>
+        </tbody>
+    </table>
+
+</div>

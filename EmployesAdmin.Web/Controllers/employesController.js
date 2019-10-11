@@ -15,37 +15,30 @@
 
             $scope.Id = null;
             $scope.Valor = 100000;
+            $scope.EmployeList = [];
 
 
             $scope.Employe = {
 
                 GetEmployesList: function () {
 
-                    //employeService.getEmployes($scope.Id, function (data) {
+                    $scope.EmployeList = [];
 
+                    employeService.getEmployes($scope.Id, function (data) {
 
-                    //    alert('Consumido');
-                    //    //if (data.Exito) {
+                        if (data) {
+                            $scope.EmployeList = data;
+                        }
 
-                    //    //    $scope.ListaClientes = data.Resultado;
-
-                    //    //} else {
-
-                    //    //    alert('Error al Cargar el Listado de Clientes.' + data.Mensaje);
-
-                    //    //}
-
-                    //});
-                },
-            }
-
+                    });
+                }
+            };
 
             $scope.CleanValues = function () {
 
                 $scope.Id = null;
 
-            }
-
+            };
 
             $scope.init = function () {
 
